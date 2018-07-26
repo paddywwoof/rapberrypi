@@ -1,4 +1,4 @@
-CC = g++-8.1.0
+CC = g++
 CFLAGS = -std=c++17 -Wall
 LDLIBS = -lGL -lSDL2_image
 LDFLAGS = $(shell sdl2-config --cflags --libs)
