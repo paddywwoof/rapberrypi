@@ -9,6 +9,6 @@ All rights reserved.
 
 No guarantee, express or implied is given using this model.  Use at your own risk.
 
-This ReadMe file must reside with the model file at all times.
+This ReadMe file must reside with the model files and textures at all times.
 
 Enjoy!
